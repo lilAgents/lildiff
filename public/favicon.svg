@@ -1,8 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="7" fill="#536ee5"/>
-  <rect x="6" y="8" width="9" height="3" rx="1.5" fill="#ff8a8a"/>
-  <rect x="6" y="14.5" width="6" height="3" rx="1.5" fill="#ff8a8a"/>
-  <rect x="17" y="20.5" width="9" height="3" rx="1.5" fill="#fff"/>
-  <rect x="17" y="14.5" width="6" height="3" rx="1.5" fill="#fff"/>
-  <path d="M16 6.5v19" stroke="#fff" stroke-width="1.4" stroke-dasharray="2 2" opacity="0.6"/>
+<!-- @license lucide-static v1.21.0 - ISC -->
+<svg
+  class="lucide lucide-diff"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="#536ee5"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M12 3v14" />
+  <path d="M5 10h14" />
+  <path d="M5 21h14" />
 </svg>
